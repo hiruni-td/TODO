@@ -279,4 +279,10 @@ color: var(--primary);
 .icon-btn.delete:hover { 
 background: #fff0f1; 
 color: var(--danger); 
-} 
+}
+
+.empty-state { 
+padding: 35px 12px; 
+text-align: center; 
+color: var(--muted); 
+}
