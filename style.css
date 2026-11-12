@@ -253,3 +253,9 @@ font-size: 14px;
 color: #a2a2b1; 
 text-decoration: line-through; 
 } 
+
+.todo-actions { 
+display: flex; 
+gap: 5px; 
+}
+
