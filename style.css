@@ -325,3 +325,7 @@ footer {
     flex-direction: column;
     gap: 12px;
 }
+
+.stats {
+    gap: 7px;
+}
