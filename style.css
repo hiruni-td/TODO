@@ -152,3 +152,9 @@ font-weight: 700;
 .add-btn:hover { 
 background: var(--primary-dark); 
 } 
+
+.form-hint { 
+margin: 9px 0 0; 
+color: var(--muted); 
+font-size: 11px; 
+} 
