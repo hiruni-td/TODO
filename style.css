@@ -148,3 +148,7 @@ background: var(--primary);
 color: white; 
 font-weight: 700; 
 }
+
+.add-btn:hover { 
+background: var(--primary-dark); 
+} 
