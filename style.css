@@ -242,3 +242,9 @@ height: 19px;
 accent-color: var(--primary); 
 cursor: pointer; 
 }
+
+.todo-text { 
+flex: 1; 
+overflow-wrap: anywhere; 
+font-size: 14px; 
+}
