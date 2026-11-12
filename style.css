@@ -178,3 +178,7 @@ color: var(--danger);
 font-size: 12px; 
 font-weight: 700; 
 } 
+
+.clear-btn:hover { 
+text-decoration: underline; 
+}
