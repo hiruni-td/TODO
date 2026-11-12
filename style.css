@@ -275,3 +275,8 @@ font-size: 14px;
 background: #eeedff; 
 color: var(--primary); 
 }
+
+.icon-btn.delete:hover { 
+background: #fff0f1; 
+color: var(--danger); 
+} 
