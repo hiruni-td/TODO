@@ -350,3 +350,7 @@ footer {
     align-items: stretch;
     flex-direction: column;
 }
+
+.filters {
+    justify-content: space-between;
+}
