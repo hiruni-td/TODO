@@ -248,3 +248,8 @@ flex: 1;
 overflow-wrap: anywhere; 
 font-size: 14px; 
 }
+
+.todo-item.completed .todo-text { 
+color: #a2a2b1; 
+text-decoration: line-through; 
+} 
