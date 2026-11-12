@@ -320,3 +320,8 @@ footer {
 .app {
     padding: 22px 16px;
 }
+
+.header {
+    flex-direction: column;
+    gap: 12px;
+}
