@@ -297,3 +297,9 @@ color: #c4c2f5;
     color: var(--ink); 
     font-size: 15px; 
 }
+
+.empty-state p { 
+    margin: 0; 
+    font-size: 12px; 
+} 
+ 
