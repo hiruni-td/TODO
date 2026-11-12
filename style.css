@@ -97,3 +97,8 @@ background: #fdfdff;
 font-size: 25px; 
 font-weight: 800; 
 } 
+
+.stat-label { 
+color: var(--muted); 
+font-size: 12px; 
+} 
