@@ -286,3 +286,8 @@ padding: 35px 12px;
 text-align: center; 
 color: var(--muted); 
 }
+
+.empty-icon { 
+font-size: 32px; 
+color: #c4c2f5; 
+}
