@@ -291,3 +291,9 @@ color: var(--muted);
 font-size: 32px; 
 color: #c4c2f5; 
 }
+
+.empty-state h3 { 
+    margin: 8px 0 4px; 
+    color: var(--ink); 
+    font-size: 15px; 
+}
