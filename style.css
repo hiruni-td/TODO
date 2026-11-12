@@ -66,3 +66,12 @@ margin: 8px 0 0;
 color: var(--muted); 
 font-size: 14px; 
 } 
+
+.date { 
+padding: 9px 12px; 
+border-radius: 10px; 
+background: #f2f1ff; 
+color: var(--primary); 
+font-size: 12px; 
+font-weight: 700; 
+}
