@@ -102,3 +102,10 @@ font-weight: 800;
 color: var(--muted); 
 font-size: 12px; 
 } 
+
+.form-card { 
+padding: 22px; 
+border-radius: 17px; 
+background: #f7f7ff; 
+border: 1px solid #eeedff; 
+}
