@@ -337,3 +337,7 @@ footer {
 .stat-number {
     font-size: 21px;
 }
+
+#todoForm {
+    flex-direction: column;
+}
