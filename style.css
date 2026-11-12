@@ -182,3 +182,11 @@ font-weight: 700;
 .clear-btn:hover { 
 text-decoration: underline; 
 }
+
+.toolbar { 
+display: flex; 
+align-items: center; 
+gap: 12px; 
+margin: 16px 0; 
+} 
+
