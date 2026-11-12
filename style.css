@@ -195,3 +195,11 @@ flex: 1;
 padding: 10px 12px; 
 font-size: 13px; 
 }
+
+.filters { 
+display: flex; 
+gap: 4px; 
+padding: 4px; 
+background: #f3f3f8; 
+border-radius: 10px; 
+} 
