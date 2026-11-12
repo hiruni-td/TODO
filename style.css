@@ -270,3 +270,8 @@ background: #f5f5fa;
 color: #77788c; 
 font-size: 14px; 
 }
+
+.icon-btn:hover { 
+background: #eeedff; 
+color: var(--primary); 
+}
