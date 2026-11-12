@@ -235,3 +235,10 @@ padding: 13px 14px;
 border: 1px solid var(--line); 
 border-radius: 12px; 
 }
+
+.todo-check { 
+width: 19px; 
+height: 19px; 
+accent-color: var(--primary); 
+cursor: pointer; 
+}
