@@ -190,3 +190,8 @@ gap: 12px;
 margin: 16px 0; 
 } 
 
+#searchInput { 
+flex: 1; 
+padding: 10px 12px; 
+font-size: 13px; 
+}
