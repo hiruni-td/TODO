@@ -92,3 +92,8 @@ border: 1px solid var(--line);
 border-radius: 14px; 
 background: #fdfdff; 
 }
+
+.stat-number { 
+font-size: 25px; 
+font-weight: 800; 
+} 
