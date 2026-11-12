@@ -315,42 +315,47 @@ footer {
     body {
         padding: 16px 10px;
     }
-}
 
-.app {
-    padding: 22px 16px;
-}
 
-.header {
-    flex-direction: column;
-    gap: 12px;
-}
+    .app {
+        padding: 22px 16px;
+    }
 
-.stats {
-    gap: 7px;
-}
+    .header {
+        flex-direction: column;
+        gap: 12px;
+    }
 
-.stat-card {
-    padding: 12px 10px;
-}
+    .stats {
+        gap: 7px;
+    }
 
-.stat-number {
-    font-size: 21px;
-}
+    .stat-card {
+        padding: 12px 10px;
+    }
 
-#todoForm {
-    flex-direction: column;
-}
+    .stat-number {
+        font-size: 21px;
+    }
 
-.add-btn {
-    min-height: 44px;
-}
+    #todoForm {
+        flex-direction: column;
+    }
 
-.toolbar {
-    align-items: stretch;
-    flex-direction: column;
-}
+    .add-btn {
+        min-height: 44px;
+    }
 
-.filters {
-    justify-content: space-between;
+    .toolbar {
+        align-items: stretch;
+        flex-direction: column;
+    }
+
+    .filters {
+        justify-content: space-between;
+    }
+
+    .filter-btn {
+        flex: 1;
+    }
 }
