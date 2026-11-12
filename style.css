@@ -329,3 +329,7 @@ footer {
 .stats {
     gap: 7px;
 }
+
+.stat-card {
+    padding: 12px 10px;
+}
