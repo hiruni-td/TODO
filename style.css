@@ -341,3 +341,7 @@ footer {
 #todoForm {
     flex-direction: column;
 }
+
+.add-btn {
+    min-height: 44px;
+}
