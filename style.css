@@ -109,3 +109,9 @@ border-radius: 17px;
 background: #f7f7ff; 
 border: 1px solid #eeedff; 
 }
+
+.form-card h2, 
+.tasks-heading h2 { 
+margin: 0; 
+font-size: 17px; 
+} 
