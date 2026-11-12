@@ -333,3 +333,7 @@ footer {
 .stat-card {
     padding: 12px 10px;
 }
+
+.stat-number {
+    font-size: 21px;
+}
