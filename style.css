@@ -345,3 +345,8 @@ footer {
 .add-btn {
     min-height: 44px;
 }
+
+.toolbar {
+    align-items: stretch;
+    flex-direction: column;
+}
